@@ -173,6 +173,7 @@ export default function AirdropForm() {
                 backdrop-blur-xl
                 shadow-2xl shadow-black/20
                 p-8
+                mt-10
             "
         >
             {/* Heading */}
